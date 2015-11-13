@@ -97,5 +97,7 @@ var instance = new N3Parser()
 for (var property in instance) {
   N3Parser[property] = instance[property]
 }
-
+if (typeof window !== 'undefined') {
+    window.N3Parser = N3Parser;
+}
 module.exports = N3Parser
