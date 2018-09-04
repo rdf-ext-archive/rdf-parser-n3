@@ -1,3 +1,5 @@
+# This package is now maintaned at the [rdfjs organisation](https://github.com/rdfjs/parser-n3).
+
 # rdf-parser-n3
 
 [![Build Status](https://travis-ci.org/rdf-ext/rdf-parser-n3.svg?branch=master)](https://travis-ci.org/rdf-ext/rdf-parser-n3)
